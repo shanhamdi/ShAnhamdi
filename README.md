@@ -4,8 +4,8 @@
 
 - 👦 &nbsp; Menjelajahi teknologi baru dan mengembangkan solusi perangkat lunak dan bahasa pemrograman lainnya 
 - 🎓 &nbsp; Mahasiswa Teknik Informatika Universitas Islam Sultan Syarif Kasim Riau
-- 🏃🏻 &nbsp; Mempelajari lebih lanjut tentang Pemrograman Java, Pemrograman Web, dan Aplikasi Android.
-- ✍️ &nbsp; Sudah terbiasa dengan deadline dan Menulis Koding sebagai hobi.
+- 🏃🏻 &nbsp; Mempelajari lebih lanjut tentang Pemrograman Java, Pemrograman Web, dan Pengembangan Aplikasi Mobile
+- ✍️ &nbsp; Sudah terbiasa dengan deadline dan Menulis Koding sebagai hobi
 
 <a href="https://github.com/shanhamdi">
   <img height="170em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Shanhamdi&show_icons=true&include_all_commits=true&theme=algolia" />
