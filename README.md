@@ -9,7 +9,7 @@
 
 <a href="https://github.com/shanhamdi">
   <img height="170em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Shanhamdi&show_icons=true&include_all_commits=true&theme=algolia" />
-  <img height="170em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Shanhamdi&show_icons=true&include_all_commits=true&theme=algolia" />
+  <img height="130em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Shanhamdi&layout=compact&theme=algolia" />
 </a>
 
 <br/>
