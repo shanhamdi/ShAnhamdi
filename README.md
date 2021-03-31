@@ -8,8 +8,8 @@
 - ✍️ &nbsp; Sudah terbiasa dengan deadline dan Menulis Koding sebagai hobi.
 
 <a href="https://github.com/shanhamdi">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=shanhamdi&theme=buefy&show_icons=true" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanhamdi&theme=buefy&layout=compact" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=shanhamdi&theme=buefy&show_icons=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanhamdi&theme=buefy&layout=compact" />
 </a>
 
 <br/>
