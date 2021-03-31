@@ -14,7 +14,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Stay Connected with Me </h3>
+<h3> ✅ &nbsp;Stay Connected with Me </h3>
 
 <p align="center">
 <a href="https://www.facebook.com/shanhamdi/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-www.facebook.com/shanhamdi/-blue?style=flat-square&logo=Facebook"></a>
