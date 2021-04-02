@@ -19,7 +19,7 @@
 <p align="center">
 <a href="https://www.facebook.com/shanhamdi/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-shanhamdi-blue?style=flat-square&logo=Facebook"></a>
 <a href="https://www.instagram.com/shanhamdi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shanhamdi-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:shannxml@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shannxml@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:shannxml@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shannxml-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [shanhamdi](https://github.com/shanhamdi)
